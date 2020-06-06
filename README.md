@@ -1,1 +1,1 @@
-# mimi mybatis impliment
+# mini mybatis impliment
